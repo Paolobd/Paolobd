@@ -29,7 +29,14 @@
 
 ###
 
-<p align="left">I'm Paolo Stefanut Bodnarescul from Torino, Italy.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Paolo Stefanut Bodnarescul, a tech entusiast from Torino, Italy.<br>
+I recently gratuated with a Master's Degree🎓 in Computer Engineering at Politecnico di Torino.<br><br>
+- 🔭 I’m currently seeking new and exciting job opportunities<br>
+- ⚡ In my free time I play videogames 🎮, read manga 📚, watch movies 🎬 and learn about new technologies 💻</p>
+
+###
+
+<h2 align="center">Technologies 🖥️</h2>
 
 ###
 
@@ -38,17 +45,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
@@ -81,44 +88,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
-
-<h3 align="left">Database</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="left">Testing</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-</div>
-
-###
-
-<h3 align="left">DevOps</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
-</div>
-
-###
-
 <h3 align="left">Tools</h3>
 
 ###
@@ -146,7 +115,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/paolobd/paolobd/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Paolobd/Paolobd/output/snake.svg" alt="Snake animation" />
 
 ###
 
