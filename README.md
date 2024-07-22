@@ -166,7 +166,11 @@ In my free time I play videogames 🎮, read manga 📚, watch movies 🎬, take
 
 ###
 
-<img src="https://raw.githubusercontent.com/Paolobd/Paolobd/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paolobd/Paolobd/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Paolobd/Paolobd/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Paolobd/Paolobd/output/snake.svg" />
+</picture>
 
 ###
 
