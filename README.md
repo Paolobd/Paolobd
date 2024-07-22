@@ -1,8 +1,10 @@
 <div align="center">
-  <img height="300" src="images/cat-laptop.png"  />
+  <img height="200" src="images/cat-laptop.png"  />
 </div>
 
 ###
+
+<h3 align="center">Contacts</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paolo-stefanut-bodnarescul/" target="_blank">
@@ -14,6 +16,8 @@
 </div>
 
 ###
+
+<h3 align="center">Profile Counter </h3>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/paolobd/count.svg?"  />
