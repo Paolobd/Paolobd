@@ -44,7 +44,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 
 ###
 <details open>
-<summary style="font-size:15px">Programming Languages</summary>
+<summary style="font-size:20px">Programming Languages</summary>
 
 ### 
 <div align="left" style="margin-left:0.5em">
@@ -65,7 +65,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 ###
 
 <details open>
-<summary style="font-size:15px">Front-end Development</summary>
+<summary style="font-size:20px">Front-end Development</summary>
 
 ###
 <div align="left" style="margin-left:0.5em">
@@ -82,7 +82,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 ###
 
 <details open>
-<summary style="font-size:15px">Back-end Development</summary>
+<summary style="font-size:20px">Back-end Development</summary>
 
 ###
 <div align="left" style="margin-left:0.5em">
@@ -97,7 +97,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 ###
 
 <details open>
-<summary style="font-size:15px">Testing</summary>
+<summary style="font-size:20px">Testing</summary>
 
 ###
 <div align="left" style="margin-left:0.5em">
@@ -112,7 +112,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 ###
 
 <details open>
-<summary style="font-size:15px">Database</summary>
+<summary style="font-size:20px">Database</summary>
 
 ###
 <div align="left" style="margin-left:0.5em">
@@ -125,7 +125,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 ###
 
 <details open>
-<summary style="font-size:15px">DevOps</summary>
+<summary style="font-size:20px">DevOps</summary>
 
 ###
 <div align="left" style="margin-left:0.5em">
@@ -138,7 +138,7 @@ I recently gratuated with a Master's Degree🎓 in Computer Engineering at Polit
 ###
 
 <details open>
-<summary style="font-size:15px">Tools</summary>
+<summary style="font-size:20px">Tools</summary>
 
 ###
 
