@@ -33,9 +33,9 @@
 
 ###
 
-<p align="left">I'm Paolo Stefanut Bodnarescul, a tech entusiast from Torino, Italy.<br>
-I recently gratuated with a Master's Degree🎓 in Computer Engineering at Politecnico di Torino.<br><br>
-I’m currently seeking new and exciting job opportunities<br>
+<p align="left">I'm Paolo Stefanut Bodnarescul, a tech enthusiast from Torino, Italy.<br>
+I recently graduated with a Master's Degree🎓 in Computer Engineering at Politecnico di Torino.<br><br>
+I’m currently working as a consultant at Iriscube Reply<br>
 In my free time I play videogames 🎮, read manga 📚, watch movies 🎬, take care of my cats 🐈 and learn about new technologies 💻</p>
 
 ###
