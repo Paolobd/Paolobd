@@ -15,17 +15,7 @@
   </a>
 </div>
 
-###
-
-<h3 align="center">Profile Counter</h3>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/paolobd/count.svg?"  />
-</div>
-
-###
-
-<h1 align="center">Hi 👋, I'm Paolo S. Bodnarescul</h1>
+<h1 align="center">Hi 👋, I'm Paolo Stefanut Bodnarescul</h1>
 
 ###
 
